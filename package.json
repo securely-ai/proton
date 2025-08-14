@@ -1,0 +1,23 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "A simple website project",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build script not defined'",
+    "test": "echo 'Test script not defined'"
+  },
+  "keywords": [
+    "website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
